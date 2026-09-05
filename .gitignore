@@ -1,0 +1,48 @@
+# OOG Core Bridge public distribution repository
+# Release binaries belong in GitHub Releases, not in the Git tree.
+
+# Source / project files
+src/
+include/
+build/
+dist/
+CMakeFiles/
+*.c
+*.cc
+*.cpp
+*.cxx
+*.h
+*.hpp
+*.sln
+*.vcxproj
+*.vcxproj.*
+CMakeCache.txt
+cmake_install.cmake
+
+# Build products / symbols
+*.exe
+*.dll
+*.lib
+*.exp
+*.obj
+*.pdb
+*.ilk
+*.zip
+*.7z
+*.rar
+
+# Secrets / local state
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+license.dat
+*.log
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.vs/
+.vscode/
+.idea/
