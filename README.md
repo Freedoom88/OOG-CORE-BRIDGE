@@ -1,5 +1,7 @@
 # OOG Core Bridge
 
+Подготовка 1.1.3: исправление NPC SELL через Engine.NpcTrade. Выпуск ожидает ручной защиты MAIN и проверки защищённого запуска. Доступная стабильная версия остаётся 1.1.2 до отдельной публикации.
+
 Official public distribution channel for OOG Core Bridge runtime releases.
 
 This repository is intentionally used for distribution only. Application source code, license secrets, signing seeds, Supabase service keys, and other private credentials must never be committed here.
