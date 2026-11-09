@@ -1,6 +1,6 @@
 # OOG Core Bridge
 
-Подготовка 1.1.3: исправление NPC SELL через Engine.NpcTrade. Выпуск ожидает ручной защиты MAIN и проверки защищённого запуска. Доступная стабильная версия остаётся 1.1.2 до отдельной публикации.
+Версия 1.1.3 исправляет NPC SELL через Engine.NpcTrade. MAIN Launcher/Core защищены вручную; проверен настоящий запуск через Launcher ticket. VPS EDITION распространяется отдельно.
 
 Official public distribution channel for OOG Core Bridge runtime releases.
 

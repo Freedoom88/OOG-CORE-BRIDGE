@@ -5,3 +5,5 @@
 - Сохранены функции 1.1.2: WH PUT/GET, Teleport/Appearing, Restart, FAST_DEATH, пакетные команды, многопозиционные лавки, AUTO_TRADE MULTICYCLE, TRADE_ME и массовая кристаллизация.
 
 MAIN использует штатную лицензию, HWID, Launcher ticket и автообновление. VPS EDITION поставляется отдельно, без VMProtect, обычного лицензирования MAIN и автообновления.
+
+MAIN Launcher и Core защищены вручную через VMProtect. Проверен запуск защищённой пары с действительным Launcher ticket. VPS не входит в публичные assets MAIN.
